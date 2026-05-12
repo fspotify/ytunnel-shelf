@@ -1,0 +1,23 @@
+{
+  "job_id": "7a64f11057e2",
+  "url": "https://www.youtube.com/watch?v=UiW1oPl4E8U",
+  "video_id": "UiW1oPl4E8U",
+  "title": "I Control the Streets | Schedule 1",
+  "uploader": "penguinz0",
+  "duration_sec": 2424,
+  "duration": "40:24",
+  "size_bytes": 291256667,
+  "part_count": 6,
+  "parts_uploaded": 0,
+  "branches": [
+    "job/7a64f11057e2/part-000",
+    "job/7a64f11057e2/part-001",
+    "job/7a64f11057e2/part-002",
+    "job/7a64f11057e2/part-003",
+    "job/7a64f11057e2/part-004",
+    "job/7a64f11057e2/part-005"
+  ],
+  "mime_type": "video/mp4",
+  "status": "uploading",
+  "fetched_at": "2026-05-12T07:19:05Z"
+}

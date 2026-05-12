@@ -8,12 +8,12 @@
   "duration": "17:06",
   "size_bytes": 87437886,
   "part_count": 2,
-  "parts_uploaded": 1,
+  "parts_uploaded": 2,
   "branches": [
     "job/d7887b165526/part-000",
     "job/d7887b165526/part-001"
   ],
   "mime_type": "video/mp4",
-  "status": "uploading",
+  "status": "ok",
   "fetched_at": "2026-05-12T07:16:46Z"
 }

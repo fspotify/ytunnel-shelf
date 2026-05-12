@@ -1,0 +1,7 @@
+{
+  "job_id": "8465dca215f1",
+  "url": "https://www.youtube.com/watch?v=NPtgAUsRjnA",
+  "status": "error",
+  "error": "yt-dlp timed out after 600 s",
+  "fetched_at": "2026-05-12T12:56:27Z"
+}

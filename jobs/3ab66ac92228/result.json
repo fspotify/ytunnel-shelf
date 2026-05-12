@@ -1,0 +1,21 @@
+{
+  "job_id": "3ab66ac92228",
+  "url": "https://www.youtube.com/watch?v=6RdlEm1Mv98",
+  "video_id": "6RdlEm1Mv98",
+  "title": "We Replaced His Google Home With THIS - AMD $5000 Ultimate Tech Upgrade",
+  "uploader": "Linus Tech Tips",
+  "duration_sec": 1445,
+  "duration": "24:05",
+  "size_bytes": 157300893,
+  "part_count": 4,
+  "parts_uploaded": 0,
+  "branches": [
+    "job/3ab66ac92228/part-000",
+    "job/3ab66ac92228/part-001",
+    "job/3ab66ac92228/part-002",
+    "job/3ab66ac92228/part-003"
+  ],
+  "mime_type": "video/mp4",
+  "status": "uploading",
+  "fetched_at": "2026-05-12T08:00:47Z"
+}

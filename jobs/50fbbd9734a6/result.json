@@ -1,0 +1,24 @@
+{
+  "job_id": "50fbbd9734a6",
+  "url": "https://www.youtube.com/watch?v=NPtgAUsRjnA",
+  "video_id": "NPtgAUsRjnA",
+  "title": "Call of Duty: Modern Warfare 3 - Every Killstreak in Action (2024 Updated)",
+  "uploader": "Dan Allen Gaming",
+  "duration_sec": 921,
+  "duration": "15:21",
+  "size_bytes": 314852539,
+  "part_count": 7,
+  "parts_uploaded": 0,
+  "branches": [
+    "job/50fbbd9734a6/part-000",
+    "job/50fbbd9734a6/part-001",
+    "job/50fbbd9734a6/part-002",
+    "job/50fbbd9734a6/part-003",
+    "job/50fbbd9734a6/part-004",
+    "job/50fbbd9734a6/part-005",
+    "job/50fbbd9734a6/part-006"
+  ],
+  "mime_type": "video/mp4",
+  "status": "uploading",
+  "fetched_at": "2026-05-12T12:29:35Z"
+}

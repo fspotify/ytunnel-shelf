@@ -1,0 +1,21 @@
+{
+  "job_id": "3bc306d994e9",
+  "url": "https://www.youtube.com/watch?v=se9HT9At0fI",
+  "video_id": "se9HT9At0fI",
+  "title": "I Challenged 4 Tech YouTubers to Build the Best $1000 Gaming PC",
+  "uploader": "Linus Tech Tips",
+  "duration_sec": 1667,
+  "duration": "27:47",
+  "size_bytes": 160148444,
+  "part_count": 4,
+  "parts_uploaded": 0,
+  "branches": [
+    "job/3bc306d994e9/part-000",
+    "job/3bc306d994e9/part-001",
+    "job/3bc306d994e9/part-002",
+    "job/3bc306d994e9/part-003"
+  ],
+  "mime_type": "video/mp4",
+  "status": "uploading",
+  "fetched_at": "2026-05-12T07:28:34Z"
+}
